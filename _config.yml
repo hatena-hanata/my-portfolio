@@ -1,0 +1,5 @@
+title: Profile
+logo: /assets/img/my_image.jpg
+description: my profile
+show_downloads: false
+theme: jekyll-theme-minimal
