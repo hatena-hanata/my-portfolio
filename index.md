@@ -29,7 +29,6 @@ etc...
 * Playing the musical instruments (Guitar, Bass, Piano)  
 
 ## Links
-* [YouTube](https://www.youtube.com/channel/UCXfCw6GmILC8gj8c07rl_2g)
 * [Twitter](https://twitter.com/Xc6Da)
 * [Zenn](https://zenn.dev/hanata)
 * [Qiita](https://qiita.com/hanata)
